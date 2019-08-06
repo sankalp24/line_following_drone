@@ -1,7 +1,6 @@
 import time
 from collections import deque
 
-
 class PIDController(object):
     """A software PID controller.
 
